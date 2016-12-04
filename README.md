@@ -1,6 +1,14 @@
-# vue-test
+# vue2.0-test
 
 > A Vue.js project
+
+## 包含服务端渲染和router、组件的使用
+
+> 默认不没有启动服务端渲染功能的
+
+## 如何启动服务端渲染
+
+> 修改 package.json中的 scripts 里面dev一项为 "npm run compile && node build/dev-server-2.js",
 
 ## Build Setup
 
