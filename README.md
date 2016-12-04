@@ -1,6 +1,6 @@
 # vue2.0-test
 
-> A Vue.js project
+> A Vue.js project, 基于vue-cli 创建的项目,模板语言为基于webpack的vue模板,即可用.vue为后缀的文档编写组件.
 
 ## 包含服务端渲染和router、组件的使用
 
